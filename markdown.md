@@ -8,7 +8,7 @@ $a = $ lower limit
 
 $b =$ upper limit
 
-# Composite/Multiple Segment Trapezoidal Rule
+# Multiple Segment Trapezoidal Rule
 
 $\int_{a}^{b} f(x) \, dx$
 
@@ -32,7 +32,7 @@ $a = $ lower limit
 
 $b =$ upper limit
 
-# Composite/Multiple Segment Simpson's $\frac{1}{3}$ Rule
+# Multiple Segment Simpson's $\frac{1}{3}$ Rule
 
 $\int_{a}^{b} f(x) \, dx = \frac{h}{3}[f(x_0)+4\sum_{i=1}^{n-1}f(x_i)+2\sum_{i=2}^{n-2}f(x_i)+f(x_n)]$
 
